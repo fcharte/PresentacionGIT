@@ -77,6 +77,9 @@ incremental: true
 ![](GithubDesktop.png)
 
 
+# Muchas ventajas a cambio de un pequeño esfuerzo
+
+
 ## {.titleslide#backslide}
 
 <!--link href='http://fonts.googleapis.com/css?family=Open Sans:400,300,700' rel='stylesheet' type='text/css'-->
