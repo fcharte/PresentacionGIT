@@ -49,6 +49,18 @@ incremental: true
     `git pull` - Traer cambios desde repositorio remoto
     `git push` - Envíar cambios al repositorio remoto
 
+## Comandos de Git (cont.)
+
+* Ramas
+
+    `git branch` - Ver las ramas existentes
+    `git branch "[nombre]"`- Crea nueva rama
+    `git checkout "[rama]"` - Cambia a la rama indicada
+    `git merge "[rama]"` - Fusionar cambios con rama actual
+    `git branch -d "[rama]"` - Eliminar una rama
+
+![](GitR.png)
+
 
 ## {.titleslide#backslide}
 
