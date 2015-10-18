@@ -61,6 +61,16 @@ incremental: true
 
 ![](GitR.png)
 
+## GitHub
+
+* Alojamiento de repositorios públicos
+
+* GitHub Education: Repositorios privados gratuitos
+
+* Organizaciones: Planes específicos
+
+* GitHub Desktop: Facilita todas las operaciones desde una GUI
+
 
 ## {.titleslide#backslide}
 
