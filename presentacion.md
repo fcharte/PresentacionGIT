@@ -17,6 +17,21 @@ incremental: true
 
 ![](GitGUI.png)
 
+## Comandos de Git
+
+* Configuración
+
+    `git config --global user.name "[nombre]"`  
+    `git config --global user.email "[correo]"`
+    
+* Comandos básicos
+
+    `git init`  -  Inicialización de un nuevo repositorio
+    `git status` - Comprobar el estado del repositorio
+    `git add` - Registrar cambios en la *stage* area
+    `git commit`- Confirmar cambios en la *stage* area
+    `git diff` - Diferencias entre versiones de archivo
+    `git log` - Registro de operaciones en el repositorio
 
 
 ## {.titleslide#backslide}
