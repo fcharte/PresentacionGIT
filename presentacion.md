@@ -33,6 +33,22 @@ incremental: true
     `git diff` - Diferencias entre versiones de archivo
     `git log` - Registro de operaciones en el repositorio
 
+## Comandos de Git (cont.)
+
+* Deshacer cambios
+
+    `git checkout "[archivo]"` - Restablecer archivo local 
+    `git reset "[commit]"` - Eliminar *commits*
+    `git revert "[commit]"` - Deshacer cambios 
+    
+* Repositorios remotos
+
+    `git clone` - Clona un repositorio existente
+    `git remote add "[nombre]" "[dirección]"` - Agregar nuevo repositorio remoto
+    
+    `git pull` - Traer cambios desde repositorio remoto
+    `git push` - Envíar cambios al repositorio remoto
+
 
 ## {.titleslide#backslide}
 
