@@ -3,6 +3,21 @@ title: "Introducción a Git y GitHub"
 incremental: true
 ---
 
+# Git + GitHub
+
+## Git
+
+* Sistema de control de versiones de código 
+
+* Disponible para todos los sistemas operativos
+
+* Funcionamiento distribuido
+
+* Línea de comandos + GUI básica
+
+![](GitGUI.png)
+
+
 
 ## {.titleslide#backslide}
 
