@@ -71,6 +71,11 @@ incremental: true
 
 * GitHub Desktop: Facilita todas las operaciones desde una GUI
 
+![](GithubDesktop.png)
+
+## GitHub
+![](GithubDesktop.png)
+
 
 ## {.titleslide#backslide}
 
