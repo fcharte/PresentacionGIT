@@ -17,6 +17,10 @@ incremental: true
 
 ![](GitGUI.png)
 
+## Conceptos básicos Git
+
+![](GitFlow.png)
+
 ## Comandos de Git
 
 * Configuración
