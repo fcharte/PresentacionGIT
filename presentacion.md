@@ -58,16 +58,23 @@ incremental: true
 * Ramas
 
     `git branch` - Ver las ramas existentes
+    
     `git branch "[nombre]"`- Crea nueva rama
+    
     `git checkout "[rama]"` - Cambia a la rama indicada
+    
     `git merge "[rama]"` - Fusionar cambios con rama actual
+    
     `git branch -d "[rama]"` - Eliminar una rama
+
+## Git - Miscelánea
+
+* Integración con herramientas de desarrollo
+* Tutorial: https://www.atlassian.com/git/
 
 ![](GitR.png)
 
-## Git tutorial
 
-* Tutorial: https://www.atlassian.com/git/
 
 ## GitHub
 
