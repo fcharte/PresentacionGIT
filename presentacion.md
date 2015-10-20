@@ -65,6 +65,10 @@ incremental: true
 
 ![](GitR.png)
 
+## Git tutorial
+
+* Tutorial: https://www.atlassian.com/git/
+
 ## GitHub
 
 * Alojamiento de repositorios públicos
@@ -82,7 +86,6 @@ incremental: true
 
 
 # Muchas ventajas a cambio de un pequeño esfuerzo
-
 
 ## {.titleslide#backslide}
 
